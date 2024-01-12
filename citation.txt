@@ -1,0 +1,9 @@
+@inproceedings{REPO199,
+    author = "Sage, Alexander and Timofte, Radu and Agustsson, Eirikur and Gool, Luc Van",
+    booktitle = "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    number = "",
+    pages = "5879-5888",
+    title = "{Logo Synthesis and Manipulation with Clustered Generative Adversarial Networks}",
+    volume = "",
+    year = "2018"
+}
